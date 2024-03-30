@@ -14,6 +14,6 @@ urlpatterns = [
     path(
         "admin/<str:novel_id>",
         AdminNovelDetailUpdateDeleteView.as_view(),
-        name="author-novel-detail",
+        name="admin-novel-detail",
     ),
 ]
