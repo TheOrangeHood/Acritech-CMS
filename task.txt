@@ -1,0 +1,7 @@
+1. create Author user model (done)
+2. create Novel model (This is our content) (done)
+3. create authentication infra (done)
+4. create authentication apis for author as well as admin (done)
+5. create Admin Crud Apis (done)
+6. create User Crud Apis (done)
+7. create public user read Apis (done)
